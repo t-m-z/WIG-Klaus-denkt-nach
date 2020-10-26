@@ -1,0 +1,363 @@
+tabelle1 =   { [0]=2,  [1]=2,  [2]=1,  [3]=0, [4]=-1,[5]=-1,[6]=-1,[7]=-1,[8]=-2,[9]=-2,[10]=-2,[11]=-2,[12]=-2,[13]=-3,[14]=-3,[15]=-3,[16]=-3,[17]=-3,[18]=-4,[19]=-4,[20]=-4,[21]=-5,[22]=-5,[23]=-5,[24]=-6,[25]=-6, [26]=-7, [27]=-7, [28]=-8, [29]=-8}
+tabelle2 =   { [0]=0,  [1]=0,  [2]=0,  [3]=0, [4]= 0,[5]= 0,[6]= 0,[7]= 0,[8]= 0,[9]= 0,[10]= 0,[11]= 0,[12]= 0,[13]= 0,[14]= 0,[15]= 0,[16]= 0,[17]= 0,[18]= 0,[19]= 0,[20]= 0,[21]=-1,[22]=-1,[23]=-2,[24]=-2,[25]=-3, [26]= -3,[27]=-2, [28]=-1, [29]=-1}
+tabelle3 =   { [0]=0,  [1]=0,  [2]=0,  [3]=0, [4]= 0,[5]= 0,[6]= 0,[7]= 1,[8]= 1,[9]= 1,[10]= 1,[11]= 1,[12]= 1,[13]= 1,[14]= 1,[15]= 1,[16]= 1,[17]= 1,[18]= 1,[19]= 1,[20]= 1,[21]= 1,[22]= 2,[23]= 2,[24]= 2,[25]= 2, [26]=  2,[27]= 2, [28]= 1, [29]=0}
+tabelle4 =   { [0]=0,  [1]=0,  [2]=0,  [3]=0, [4]= 0,[5]= 1,[6]= 1,[7]= 1,[8]= 1,[9]= 2,[10]= 2,[11]= 2,[12]= 2,[13]= 3,[14]= 3,[15]= 4,[16]= 4,[17]= 5,[18]= 5,[19]= 6,[20]= 6,[21]= 7,[22]= 7,[23]= 8,[24]= 9,[25]=10, [26]= 12,[27]=14, [28]=18, [29]=20}
+tabelle5 =   { [0]=0,  [1]=0,  [2]=0,  [3]=0, [4]=-1,[5]=-1,[6]=-1,[7]=-1,[8]=-1,[9]=-1,[10]=-1,[11]=-1,[12]=-1,[13]=-1,[14]=-1,[15]=-2,[16]=-2,[17]=-2,[18]=-2,[19]=-2,[20]=-2,[21]=-3,[22]=-3,[23]=-3,[24]=-3,[25]= 0, [26]= 0, [27]= 0, [28]= 0, [29]=0}
+tabelle6 =   { [0]=2,  [1]=2,  [2]=2,  [3]=0, [4]= 0,[5]= 0,[6]= 0,[7]= 0,[8]=-1,[9]=-1,[10]=-1,[11]=-2,[12]=-2,[13]=-2,[14]=-2,[15]=-3,[16]=-3,[17]=-3,[18]=-4,[19]=-4,[20]=-5,[21]=-5,[22]=-6,[23]=-7,[24]=-8,[25]=-10,[26]=-12,[27]=-14,[28]=-18,[29]=-24}
+tabelle7 =   { [0]=0,  [1]=0,  [2]=0,  [3]=-1,[4]=-1,[5]=-1,[6]= 0,[7]= 0,[8]= 0,[9]= 0,[10]= 0,[11]= 0,[12]= 0,[13]= 0,[14]= 0,[15]= 1,[16]= 1,[17]= 1,[18]= 1,[19]= 1,[20]= 1,[21]= 2,[22]= 2,[23]= 2,[24]= 1,[25]= 1, [26]=  1,[27]= 0, [28]= 0, [29]= 0}
+tabelle8 =   { [0]=-2, [1]=-2, [2]=-2, [3]=-2,[4]=-2,[5]=-2,[6]=-1,[7]=-1,[8]=-1,[9]=-1,[10]= 0,[11]= 1,[12]= 1,[13]= 1,[14]= 2,[15]= 2,[16]= 2,[17]= 2,[18]= 3,[19]= 3,[20]= 3,[21]= 3,[22]= 4,[23]= 4,[24]= 4,[25]= 4, [26]=  5,[27]= 5, [28]= 6, [29]= 6}
+tabelle9 =   { [0]=1,  [1]=1,  [2]=1,  [3]=0, [4]= 0,[5]= 0,[6]= 0,[7]= 0,[8]= 0,[9]= 0,[10]= 1,[11]= 1,[12]= 1,[13]= 1,[14]= 2,[15]= 2,[16]= 2,[17]= 2,[18]= 2,[19]= 3,[20]= 3,[21]= 3,[22]=-3,[23]=-3,[24]=-4,[25]=-4, [26]= -4,[27]=-4, [28]=-4, [29]=-4}
+tabelle10 =  { [0]=0,  [1]=0,  [2]=1,  [3]=1, [4]= 0,[5]= 0,[6]= 0,[7]= 0,[8]= 0,[9]= 0,[10]= 1,[11]= 1,[12]= 1,[13]= 2,[14]= 1,[15]= 1,[16]= 0,[17]= 0,[18]=-1,[19]=-1,[20]=-1,[21]=-1,[22]=-1,[23]=-2,[24]=-2,[25]=-2, [26]= -1,[27]=-1, [28]=-1, [29]= 0}
+tabelle11 =  { [0]=-15,[1]=-15,[2]=-15,[3]=-8,[4]=-4,[5]=-3,[6]=-2,[7]=-1,[8]= 0,[9]= 1,[10]= 2,[11]= 2,[12]= 2,[13]= 1,[14]= 1,[15]= 1,[16]= 1,[17]= 1,[18]= 1,[19]= 1,[20]= 1,[21]= 0,[22]= 0,[23]= 0,[24]= 0,[25]= 0, [26]=  0,[27]= 0, [28]= 0, [29]= 0}
+tabelle12 =  { [0]=-9, [1]=-9, [2]=-9, [3]=-6,[4]=-3,[5]=-2,[6]=-2,[7]=-2,[8]=-2,[9]=-2,[10]= 0,[11]= 0,[12]= 1,[13]= 1,[14]= 1,[15]= 1,[16]= 1,[17]= 1,[18]= 1,[19]= 1,[20]= 1,[21]= 2,[22]= 2,[23]= 2,[24]= 3,[25]= 3, [26]=  3,[27]= 4, [28]= 4, [29]= 5}
+tabelle13 =  { [0]=-4, [1]=-4, [2]=-4, [3]=-3,[4]=-3,[5]=-3,[6]=-2,[7]=-2,[8]=-2,[9]=-2,[10]=-1,[11]=-1,[12]=-1,[13]=-1,[14]=-1,[15]= 0,[16]= 1,[17]= 1,[18]= 1,[19]= 1,[20]= 1,[21]= 2,[22]= 2,[23]= 2,[24]= 2,[25]= 2, [26]=  3,[27]= 3, [28]= 3, [29]= 3}
+
+-- Bevoelkerung - Leb : 0 ... 48
+tabelle14 =  { [0]=-9, [1]=-5, [2]=-2, [3]=0, [4]= 0,[5]= 0,[6]= 0,[7]= 0,[8]= 0,[9]= 0,[10]= 0,[11]= 0,[12]= 0,[13]= 0,[14]= 0,[15]=-1,[16]=-1,[17]=-1,[18]=-1,[19]=-1,[20]=-1,[21]=-1,[22]=-1,[23]=-1,[24]=-1,[25]=-1, [26]= -2,[27]= -2,[28]= -2, [29]=-2,[30]=-2,[31]=-3,[32]=-3,[33]=-3,[34]=-3,[35]=-3,[36]=-3,[37]=-3,[38]=-3,[39]=-4,[41]=-4,[42]=-4,[43]=-5,[44]=-7,[45]=-10,[46]=-14,[47]=-19,[48]=-25}
+-- Bevoelkerung - AP : 0 ... 48
+tabelle15 =  { [0]= 0, [1]=0,  [2]=0,  [3]=0, [4]= 0,[5]= 0,[6]= 0,[7]= 0,[8]= 0,[9]= 0,[10]= 1,[11]= 1,[12]= 1,[13]= 1,[14]= 1,[15]= 1,[16]= 1,[17]= 2,[18]= 2,[19]= 2,[20]= 2,[21]= 2,[22]= 3,[23]= 3,[24]= 3,[25]= 3, [26]=  4,[27]= 4, [28]=  4, [29]= 4,[30]= 5,[31]= 5,[32]= 5,[33]= 5,[34]= 6,[35]= 6,[36]= 6,[37]= 6,[38]= 7,[39]= 7,[41]= 7,[42]= 7,[43]= 8,[44]= 8,[45]= 8, [46]= 8, [47]= 9, [48]=10}
+
+-- Politik - AP : -11 ... 37
+tabelle16 =  { [-11]=- 6,[-10]=-5,[-9]=-2,[-8]=-1,[-7]=-1,[-6]=-1,[-5]=-1,[-4]=-1,[-3]=-1,[-2]=0,[-1]=0,[0]=0,[1]=0,[2]=0,[3]=0,[4]=0,[5]=0,[6]=0,[7]=1,[8]=1,[9]=1,[10]=1,[11]=1,[12]=1,[13]=1,[14]=1,[15]=1,[16]=1,[17]=1,[18]=1,[19]=1,[20]=1,[21]=1,[22]=2,[23]=2,[25]=2,[26]=2,[27]=2,[28]=2,[29]=2,[30]=2,[31]=2,[32]=3,[33]=3,[34]=3,[35]=3,[36]=3,[37]=3}
+
+tabelle17 =  { [0]=-4, [1]=-4, [2]=-3, [3]=-2,[4]=-1,[5]= 0,[6]= 2,[7]= 2,[8]= 3,[9]= 3,[10]= 3,[11]= 4,[12]= 4,[13]= 4,[14]= 5,[15]= 5,[16]= 5,[17]= 6,[18]= 6,[19]= 6,[20]= 7,[21]= 7,[22]= 8,[23]= 8,[24]= 9,[25]= 9, [26]=10, [27]= 6, [28]= 0, [29]=-4}
+tabelle18 =  { [0]=-6, [1]=-6, [2]=-6, [3]=-3,[4]= 0,[5]= 0,[6]= 1,[7]= 1,[8]= 1,[9]= 2,[10]= 2,[11]= 2,[12]= 2,[13]= 2,[14]= 2,[15]= 2,[16]= 2,[17]= 2,[18]= 3,[19]= 3,[20]= 3,[21]= 3,[22]= 3,[23]= 4,[24]= 4,[25]= 4, [26]= 4, [27]= 5, [28]= 5, [29]= 5}
+
+status = {["Auf"]="rot", ["Leb"]="rot", ["Pol"]="rot", ["San"]="rot", ["Pro"]="rot", ["Umw"]="rot", ["Bev"]="rot", ["Ver"]="rot"}
+
+OldAPAuf = vAPAufklaerung
+OldAPLeb = vAPLebensqualitaet
+OdlAPBev = vAPBevoelkerung
+OldAPSan = vAPSanierung
+OldAPPro = vAPProduktion
+OldAPUmw = vAPUmweltbelastung
+OldAPVer = vAPVermehrungsrate
+OldAPPol = vAPPolitik
+	
+
+
+
+
+function GetPoint(refPt, entf, winkel)
+  local dist = Wherigo.Distance(entf, 'm')
+  return Wherigo.TranslatePoint(refPt, dist, winkel)
+end
+
+
+function GetZonePoints(refPt)
+  local dist = Wherigo.Distance(4, 'm')
+   local pts = {
+    Wherigo.TranslatePoint(refPt, dist, 0),
+    Wherigo.TranslatePoint(refPt, dist, 45),
+    Wherigo.TranslatePoint(refPt, dist, 90),
+    Wherigo.TranslatePoint(refPt, dist, 135),
+    Wherigo.TranslatePoint(refPt, dist, 180),
+    Wherigo.TranslatePoint(refPt, dist, 225),
+    Wherigo.TranslatePoint(refPt, dist, 270),
+    Wherigo.TranslatePoint(refPt, dist, 315),
+       }
+  return pts
+end
+
+p = ZonePoint(0,0,0) 
+
+function initZufall()
+   math.randomseed(iSeed)
+end
+
+
+function initFeld()
+    local dist = Wherigo.Distance(0,'m')
+    
+    -- Mittelpunktkoordinaten der Zonen festlegen
+    zonePortal = Player.ObjectLocation
+    zoneSan = GetPoint(zonEPortal, 15, 180)
+    zonePol = GetPoint(zonePortal, 15, 0)
+    zoneAuf = GetPoint(zonePortal, 15,270)     
+    zoneLeb = GetPoint(zonePortal, 15, 90)     
+    zoneVer = GetPoint(zonePortal, 20, 315)     
+    zoneBev = GetPoint(zonePortal, 20, 45)     
+    zoneUmw = GetPoint(zonePortal, 20, 225)     
+    zonePro = GetPoint(zonePortal, 20, 135)     
+    
+    -- Zonen festlegen
+       zPortal.Active = false
+       zPortal.OriginalPoint = Wherigo.TranslatePoint(zonePortal , dist, 0)   
+       zPortal.Points = GetZonePoints(zoneStart)
+       
+       zAufklaerung.Active = false
+       zAufklaerung.OriginalPoint = Wherigo.TranslatePoint(zoneAuf , dist, 0)   
+       zAufklaerung.Points = GetZonePoints(zoneAuf)
+       
+       zLebensqualitaet.Active = false
+       zLebensqualitaet.OriginalPoint = Wherigo.TranslatePoint(zoneLeb , dist, 0)   
+       zLebensqualitaet.Points = GetZonePoints(zoneLeb)
+       
+       zBevoelkerung.Active = false
+       zBevoelkerung.OriginalPoint = Wherigo.TranslatePoint(zoneBev , dist, 0)   
+       zBevoelkerung.Points = GetZonePoints(zoneBev)
+       
+       zUmweltbelastung.Active = false
+       zUmweltbelastung.OriginalPoint = Wherigo.TranslatePoint(zoneUmw , dist, 0)   
+       zUmweltbelastung.Points = GetZonePoints(zoneUmw)
+       
+       zSanierung.Active = false
+       zSanierung.OriginalPoint = Wherigo.TranslatePoint(zoneSan , dist, 0)   
+       zSanierung.Points = GetZonePoints(zoneSan)
+       
+       zProduktion.Active = false
+       zProduktion.OriginalPoint = Wherigo.TranslatePoint(zonePro , dist, 0)   
+       zProduktion.Points = GetZonePoints(zonePro)
+       
+       zPolitik.Active = false
+       zPolitik.OriginalPoint = Wherigo.TranslatePoint(zonePol , dist, 0)   
+       zPolitik.Points = GetZonePoints(zonePol)
+       
+       zVermehrungsrate.Active = false
+       zVermehrungsrate.OriginalPoint = Wherigo.TranslatePoint(zoneVer , dist, 0)   
+       zVermehrungsrate.Points = GetZonePoints(zoneVer)    
+end
+
+
+function ErstelleAusgangsmeldung()
+	vSMeldung = "Momentan sieht Deine Entscheidung aus:" .. LF 
+	vSMeldung = vSMeldung .. "- Aufklaerung " .. vAPAufklaerung .. " investiert: " .. vVIntAPAuf .. LF
+	vSMeldung = vSMeldung .. "- Lebensqualiaet " .. vAPLebensqualitaet .. " investiert: " .. vIntAPLeb .. LF
+	vSMeldung = vSMeldung .. "- Sanierung " .. vAPSanierung .." investiert: " .. vIntAPSan .. LF
+	vSMeldung = vSMeldung .. "- Produktion " .. vAPProduktion .. " investiert: " .. vIntAPPro .. LF
+	vSMeldung = vSMeldung .. "- Vermehrungsrate " .. vAPVermehrungsrate .. LF
+	vSMeldung = vSMeldung .. "- Bevoelkerung " .. vAPBevoelkerung .. LF
+	vSMeldung = vSMeldung .. "- Umweltbelastung " .. vAPUmweltbelastung .. LF
+	vSMeldung = vSMeldung .. "- Politik " .. vAPPolitik 
+end
+
+
+function Staatsstreich()
+	if    ((vAPAufklaerung== 0) or
+	 	(vAPLebensqualitaet== 0)  or
+		(vAPBevoelkerung == 0)  or
+		(vAPBevoelkerung == 48)  or
+		(vAPUmweltbelastung == 29)  or
+		(vAPSanierung == 0)  or
+		(vAPProduktion == 0)  or
+		(vAPProduktion == 29)  or
+		(vAPVermehrungsrate == 0)  or
+		(vAPVermehrungsrate == 29)  or
+		(vAPPolitik == -11)) then
+		vStaatsstreich = true
+		return true
+	end
+end
+
+
+function Paradies()
+	if ((vAPLebensqualitaet==29) and
+	        (status["Auf"] == "gruen")  and
+		 (status["Pol"] == "gruen")  and
+		 (status["Bev"] == "gruen")  and
+		 (status["Ver"] == "gruen")  and
+		 (status["San"] == "gruen")  and
+		 (status["Pro"] == "gruen")  and
+		 (status["Umw"] == "gruen") ) then
+		vParadies = true
+		return true
+	end
+end
+
+
+function EntscheidungAusfuehren()
+	OldAPAuf = vAPAufklaerung
+	OldAPLeb = vAPLebensqualitaet
+	OdlAPBev = vAPBevoelkerung
+	OldAPSan = vAPSanierung
+	OldAPPro = vAPProduktion
+	OldAPUmw = vAPUmweltbelastung
+	OldAPVer = vAPVermehrungsrate
+	OldAPPol = vAPPolitik
+
+	vAPSanierung = vAPSanierung + vIntAPSan
+	vAPProduktion = vAPProduktion + vIntAPPro
+	vAPAufklaerung = vAPAufklaerung + vIntAPAuf
+	vAPLebensqualitaet = vAPLebensqualitaet + vIntAPLeb
+	if vAPSanierung > 29 then vAPSanierung = 29 end
+	if vAPProduktion < 0 then vAPProduktion = 0 end
+	if vAPProduktion > 29 then vAPProduktion = 29	end
+	if vAPAufklaerung > 29 then vAPAufklaerung = 29 end
+	if vAPLebensqualitaet > 29 then vAPLebensqualitaet = 29	end
+	
+-- Anwendung Tabelle 1 San -> Umw : Skala 0 ... 29
+	vAPUmweltbelastung = vAPUmweltbelastung + tabelle1[vAPSanierung]
+	if vAPUmweltbelastung < 0 then vAPUmweltbelastung = 0 	end
+	if vAPUmweltbelastung > 29 then vAPUmweltbelastung = 29	end
+	
+-- Anwendung Tabelle 2 San -> San : Skala 0 ... 29 
+	vAPSanierung = vAPSanierung  + tabelle2[vAPSanierung]
+	if vAPSanierung < 0 then vAPSanierung = 0 	end
+	if vAPSanierung > 29 then vAPSanierung = 29 	end
+
+-- Anwendung Tabelle 3 Pro -> Pro : Skala 0 ... 29 
+	vAPProduktion = vAPProduktion +  tabelle3[vAPProduktion]
+	if vAPProduktion < 0 then vAPProduktion = 0	end
+	if vAPProduktion > 29 then vAPProduktion = 29		end
+	
+-- Anwendung Tabelle 4 Pro -> Umw : Skala 0 ... 29 
+	vAPUmweltbelastung = vAPUmweltbelastung + tabelle4[vAPProduktion]
+	if vAPUmweltbelastung < 0 then vAPUmweltbelastung = 0	 end
+	if vAPUmweltbelastung > 29 then vAPUmweltbelastung = 29 	end	
+	
+-- Anwendung Tabelle 5 Umw -> Umw : Skala 0 ... 29 
+	vAPUmweltbelastung = vAPUmweltbelastung + tabelle5[vAPUmweltbelastung]
+	if vAPUmweltbelastung < 0 then vAPUmweltbelastung = 0 	end
+	if vAPUmweltbelastung > 29 then vAPUmweltbelastung = 29 	end	
+	
+-- Anwendung Tabelle 6 Umw -> Leb : Skala 0 ... 30 
+	vAPLebensqualitaet = vAPLebensqualitaet + tabelle6[vAPUmweltbelastung]
+	if vAPLebensqualitaet < 0 then vAPLebensqualitaet = 0 	end
+	if vAPLebensqualitaet > 29 then vAPLebensqualitaet = 29	 	end
+
+-- Anwendung Tabelle 7 Auf -> Auf : Skala 0 ... 30 
+	vAPAufklaerung = vAPAufklaerung + tabelle7[vAPAufklaerung]
+	if vAPAufklaerung < 0 then vAPAufklaerung = 0 	end
+	if vAPAufklaerung > 29 then vAPAufklaerung = 29 	end	
+
+-- Anwendung Tabelle 8 Auf -> Leb : Skala 0 ... 30 
+	vAPLebensqualitaet = vAPLebensqualitaet + tabelle8[vAPAufklaerung]
+	if vAPLebensqualitaet < 0 then vAPLebensqualitaet = 0 	end
+	if vAPLebensqualitaet > 29 then vAPLebensqualitaet = 29 	end	
+
+-- Anwendung Tabelle 9 Auf -> Ver : Skala 0 ... 30 
+	vAPVermehrungsrate = vAPVermehrungsrate + tabelle9[vAPAufklaerung]
+	if vAPVermehrungsrate < 0 then vAPVermehrungsrate = 0 	end
+	if vAPVermehrungsrate > 29 then vAPVermehrungsrate = 29	 	end
+
+
+-- Anwendung Tabelle 10 Leb -> Leb : Skala 0 ... 30 
+	vAPLebensqualitaet = vAPLebensqualitaet + tabelle10[vAPLebensqualitaet]
+	if vAPLebensqualitaet < 0 then vAPLebensqualitaet = 0 	end
+	if vAPLebensqualitaet > 29 then vAPLebensqualitaet = 29 	end	
+
+-- Anwendung Tabelle 11 Leb -> Ver : Skala 0 ... 30 
+	vAPVermehrungsrate = vAPVermehrungsrate + tabelle11[vAPLebensqualitaet]
+	if vAPVermehrungsrate < 0 then vAPVermehrungsrate = 0 	end
+	if vAPVermehrungsrate > 29 then vAPVermehrungsrate = 29	 	end
+
+-- Anwendung Tabelle 12 Leb -> Pol : Skala 0 ... 30 
+	vAPPolitik = vAPPolitik + tabelle12[vAPLebensqualitaet]
+	if vAPPolitik < -11 then vAPPolitik = -11 	end
+	if vAPPolitik > 37 then vAPPolitik = 37	 	end
+
+-- Anwendung Tabelle 13 Ver -> Bev : Skala 0 ... 30 
+	vAPBevoelkerung = vAPBevoelkerung + tabelle13[vAPVermehrungsrate]
+	if vAPBevoelkerung < 0 then vAPBevoelkerung = 0 	end
+	if vAPBevoelkerung > 48 then vAPBevoelkerung = 48	 	end
+
+-- Anwendung Tabelle 14 Bev -> Leb : Skala 0 ... 48 
+	vAPLebensqualitaet = vAPLebensqualitaet + tabelle14[vAPBevoelkerung]
+	if vAPLebensqualitaet < 0 then vAPLebensqualitaet = 0 	end
+	if vAPLebensqualitaet > 29 then vAPLebensqualitaet = 29 	end	
+	
+-- status festlegen
+	status["Umw"] = "gruen"
+	if APUmweltbelastung>6 then status["Umw"] = "hellgruen" 	end	
+	if APUmweltbelastung>10 then status["Umw"] = "gelb" 	end	
+	if APUmweltbelastung>20 then status["Umw"] = "orange" 	end	
+	if APUmweltbelastung>24 then status["Umw"] = "rot" 	end	
+
+	status["Pro"] = "rot"
+	if vAPProduktion>3 then status["Pro"] = "orange" 	end	
+	if vAPProduktion>6 then status["Pro"] = "gelb" 	end	
+	if vAPProduktion>10 then status["Pro"] = "gruen" 	end	
+	if vAPProduktion>15 then status["Pro"] = "gelb" 	end	
+	if vAPProduktion>20 then status["Pro"] = "orange" 	end	
+	if vAPProduktion>24 then status["Pro"] = "rot" 	end	
+
+	status["San"] = "rot"
+	if vAPSanierung>4 then status["San"] = "orange" 	end	
+	if vAPSanierung>8 then status["San"] = "gelb" 	end	
+	if vAPSanierung>16 then status["San"] = "hellgruen" 	end	
+	if vAPSanierung>22 then status["San"] = "gruen" 	end	
+
+	status["Pol"] = "rot"
+	if vAPPolitik>-3 then status["Pol"] = "orange" 	end	
+	if vAPPolitik>5 then status["Pol"] = "gelb" 	end	
+	if vAPPolitik>19 then status["Pol"] = "hellgruen" 	end	
+	if vAPPolitik>23 then status["Pol"] = "gruen" 	end
+	
+	status["Bev"] = "rot"
+	if vAPBevoelkerung>4 then status["Bev"] = "orange" 	end	
+	if vAPBevoelkerung>8 then status["Bev"] = "hellgruen" 	end	
+	if vAPBevoelkerung>16 then status["Bev"] = "gruen" 	end	
+	if vAPBevoelkerung>21 then status["Bev"] = "hellgruen" 	end	
+	if vAPBevoelkerung>32 then status["Bev"] = "gelb" 	end	
+	if vAPBevoelkerung>40 then status["Bev"] = "orange" 	end	
+	if vAPBevoelkerung>44 then status["Bev"] = "rot" 	end	
+
+	status["Ver"] = "rot"
+	if vAPVermehrungsrate>4 then status["Ver"] = "orange" 	end	
+	if vAPVermehrungsrate>8 then status["Ver"] = "gelb" 	end	
+	if vAPVermehrungsrate>16 then status["Ver"] = "gruen" 	end	
+	if vAPVermehrungsrate>23 then status["Ver"] = "gelb" 	end	
+	if vAPVermehrungsrate>25 then status["Ver"] = "orange" 	end	
+	if vAPVermehrungsrate>27 then status["Ver"] = "rot" 	end	
+	
+	status["Leb"] = "rot"
+	if vAPLebensqualitaet>10 then status["Leb"] = "orange" 	end	
+	if vAPLebensqualitaet>15 then status["Leb"] = "gelb" 	end	
+	if vAPLebensqualitaet>20 then status["Leb"] = "hellgruen" 	end	
+	if vAPLebensqualitaet>23 then status["Leb"] = "gruen" 	end
+	
+	status["Auf"] = "rot"
+	if vAPAufklaerung>10 then status["Auf"] = "orange" 	end	
+	if vAPAufklaerung>15 then status["Auf"] = "gelb" 	end	
+	if vAPAufklaerung>20 then status["Auf"] = "hellgruen" 	end	
+	if vAPAufklaerung>23 then status["Auf"] = "gruen" 	end
+		
+-- Anwendung Tabelle 15 Bev -> AP : Skala 0 ... 48 
+	local versorgungsfaktor = 1
+-- Versorgungsfaktor +1, -1, -2, -3, -4 berechnen
+	vAPAktionspunkte = vAPAktionspunkte + versorgungsfaktor * tabelle15[vAPBevoelkerung]
+
+-- Anwendung Tabelle 16 Pol -> AP : Skala -11 ... 37
+	vAPAktionspunkte = vAPAktionspunkte + tabelle16[vAPPolitik]
+
+-- Anwendung Tabelle 17 Pro -> AP : Skala 0 ... 30 
+	vAPAktionspunkte = vAPAktionspunkte + tabelle17[vAPProduktion]
+
+-- Anwendung Tabelle 18 Leb -> AP : Skala 0 ... 30 
+	vAPAktionspunkte = vAPAktionspunkte + tabelle18[vAPLebensqualitaet]
+
+-- Bilanz ziehen
+	vBilanz = math.floor(10 * (3*vAPLebensqualitaet + 2*vAPPolitik + vRunde) / (vRunde + 10) + 2 * vAPAktionspunkte / vRunde +0.5)
+
+-- Rundenzaehler erhoehen
+	vRunde = vRunde + 1
+
+-- AP Maximal 37 - Kuerzen
+	if vAPAktionspunkte > 29 then vAPAktionspunkte = 29 	end	
+	
+-- Ende pruefen
+	if vRunde > 12 then 
+		vEnde = true
+		vGutesEnde = true
+	elseif Paradies()
+	       vEnde = true
+		vGutesEnde = true
+	elseif Staatsstreich()
+	      vEnde = true
+	      vGutesEnde = false
+	end
+end
+
+
+function ErstelleFeedbackmeldung()
+	vSMeldung = "Deine Aktionen haben folgende Konsequenzen:" .. LF 
+	vSMeldung = vSMeldung .. "- Aufklaerung " .. vAPAufklaerung.. LF
+	vSMeldung = vSMeldung .. "- Lebensqualiaet " .. vAPLebensqualitaet .. LF
+	vSMeldung = vSMeldung .. "- Sanierung " .. vAPSanierung.. LF
+	vSMeldung = vSMeldung .. "- Produktion " .. vAPProduktion .. LF
+	vSMeldung = vSMeldung .. "- Vermehrungsrate " .. vAPVermehrungsrate .. LF
+	vSMeldung = vSMeldung .. "- Bevoelkerung " .. vAPBevoelkerung .. LF
+	vSMeldung = vSMeldung .. "- Umweltbelastung " .. vAPUmweltbelastung .. LF
+	vSMeldung = vSMeldung .. "- Politik " .. vAPPolitik 
+end
+
